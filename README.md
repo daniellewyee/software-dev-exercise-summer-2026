@@ -81,6 +81,8 @@ export FLASK_APP=web_app
 flask run
 ```
 
+whenever we make updates to our flask web app, we need to restart the web server. We do that by typing 'ctrl+c' to stop and 'flask run' again to start
+
 ## Testing
 
 Run tests:
